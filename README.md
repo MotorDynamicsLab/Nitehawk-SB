@@ -1,2 +1,8 @@
-# Quezto
-A USB toolhead PCB for the Voron Stealburner
+# Nitehawk-SB
+Nitehawk is a toolhead PCB with a RP2040 MCU, TMC2209, Accelerometer all integrated into one board. The form factor is based on HartK’s two piece stealthburner toolhead PCB but with some minor changes. 
+
+## Features  
+- Greatly simplified wiring, a single wire runs through the drag chain or in an umbilical setup. No additional breakout cables needed.
+- Based on Klipper USB, no additional hardware or software setup compared to CAN.
+- Tachometer enabled fan ports (PCF and HEF), allowing for fan speed detection.
+- Integrated accelerometer for convenient input-shaping.
