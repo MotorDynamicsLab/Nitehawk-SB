@@ -2,7 +2,7 @@
 
 Nitehawk is a toolhead PCB with a RP2040 MCU, TMC2209, Accelerometer all integrated into one board. The form factor is based on HartK’s two piece stealthburner toolhead PCB but with some minor changes. 
 
-<img src="file:///C:/Users/yang.zp/Desktop/Github/Nitehawk-SB/Images/Nitehawk-SB-4.jpg" title="" alt="Nitehawk-SB-4.jpg" width="547">
+<img title="" src="./Images/Nitehawk-SB-4.jpg" alt="Nitehawk-SB-4.jpg" width="547">
 
 ## Features
 
