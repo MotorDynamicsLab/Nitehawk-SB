@@ -1,5 +1,9 @@
 # Nitehawk-SB
 
+This is the repo for Nitehawk-SB v1. The information for the updated version can be found here https://github.com/MotorDynamicsLab/Nitehawk-SB-V2.
+
+
+
 Nitehawk is a toolhead PCB with a RP2040 MCU, TMC2209, Accelerometer all integrated into one board. The form factor is based on HartK’s two piece stealthburner toolhead PCB but with some minor changes. 
 
 <img title="" src="./Images/Nitehawk-SB-4.jpg" alt="Nitehawk-SB-4.jpg" width="547">
